@@ -2,7 +2,7 @@ export default function Cart({ cart, onRemove, onCheckout }) {
 if (cart.length === 0) {
     return (
       <div className="text-center py-20">
-        <img src="shopping-cart.png" alt="cart" className="w-16 h-16 mx-auto mb-4" />
+        <img src="/src/assests/shopping-cart.png" alt="cart" className="w-16 h-16 mx-auto mb-4" />
         <p className="text-gray-400 font-semibold text-lg">Your cart is empty!</p>
         <p className="text-gray-300 text-sm mt-2">Go add some products first.</p>
       </div>
