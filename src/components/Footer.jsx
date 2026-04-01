@@ -77,7 +77,7 @@ export default function Footer() {
                 {/* X */}
                 <a href="#" className="w-8 h-8 flex items-center justify-center rounded-full bg-white hover:bg-gray-200 transition-colors">
                   <img 
-                    src="X.png" 
+                    src="x.png" 
                     alt="Twitter" 
                     className="w-4 h-4 object-contain"
                   />

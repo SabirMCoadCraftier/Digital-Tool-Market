@@ -20,7 +20,7 @@ export default function Banner() {
               Explore Products
             </button>
             <button className="flex items-center gap-2 border border-gray-200 px-7 py-3 rounded-full font-bold text-sm text-[#6D28D9] hover:bg-gray-50 transition active:scale-95">
-              <img src="Play.png" alt="play" className="w-4 h-4 object-contain" />
+              <img src="Play.png" alt="Play" className="w-4 h-4 object-contain" />
               Watch Demo
             </button>
           </div>
