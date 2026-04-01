@@ -20,14 +20,14 @@ export default function Banner() {
               Explore Products
             </button>
             <button className="flex items-center gap-2 border border-gray-200 px-7 py-3 rounded-full font-bold text-sm text-[#6D28D9] hover:bg-gray-50 transition active:scale-95">
-              <img src="/src/assests/Play.png" alt="play" className="w-4 h-4 object-contain" />
+              <img src="Play.png" alt="play" className="w-4 h-4 object-contain" />
               Watch Demo
             </button>
           </div>
         </div>
         <div className="lg:w-[45%] flex justify-end">
           <div className="rounded-3xl overflow-hidden shadow-2xl" style={{ width: '500px', height: '590px', flexShrink: 0 }}>
-            <img src="/src/assests/banner.png" alt="Banner" className="w-full h-full object-cover" />
+            <img src="banner.png" alt="Banner" className="w-full h-full object-cover"/>
           </div>
         </div>
       </header>

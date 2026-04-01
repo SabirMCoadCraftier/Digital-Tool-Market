@@ -24,7 +24,7 @@ if (cart.length === 0) {
           >
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center shadow-sm">
-                <img src={item.icon} alt={item.name} className="w-6 h-6 object-contain" />
+                <img src={item.icon} alt={item.name} className="w-6 h-6 object-contain"/>
               </div>
               <div>
                 <p className="font-bold text-[#1D1D1F] text-sm">{item.name}</p>
