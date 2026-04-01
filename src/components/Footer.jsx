@@ -59,7 +59,7 @@ export default function Footer() {
                 {/* Instagram */}
                 <a href="#" className="w-8 h-8 flex items-center justify-center rounded-full bg-white hover:bg-gray-200 transition-colors">
                   <img 
-                    src="/src/assets/Instagram.png" 
+                    src="Instagram.png" 
                     alt="Instagram" 
                     className="w-4 h-4 object-contain"
                   />
@@ -68,7 +68,7 @@ export default function Footer() {
                 {/* Facebook */}
                 <a href="#" className="w-8 h-8 flex items-center justify-center rounded-full bg-white hover:bg-gray-200 transition-colors">
                   <img 
-                    src="/src/assets/Facebook.png" 
+                    src="Facebook.png" 
                     alt="Facebook" 
                     className="w-4 h-4 object-contain"
                   />
@@ -77,7 +77,7 @@ export default function Footer() {
                 {/* X */}
                 <a href="#" className="w-8 h-8 flex items-center justify-center rounded-full bg-white hover:bg-gray-200 transition-colors">
                   <img 
-                    src="/src/assets/X.png" 
+                    src="X.png" 
                     alt="Twitter" 
                     className="w-4 h-4 object-contain"
                   />
