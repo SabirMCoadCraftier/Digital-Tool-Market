@@ -27,7 +27,7 @@ export default function Navbar({ activeTab, setActiveTab, cartLength }) {
           onClick={() => setActiveTab('cart')}
           className="relative w-9 h-9 flex items-center justify-center hover:opacity-80"
         >
-          <img src="/public/shopping-cart.png" alt="Cart" style={{ width: '20px', height: '20px' }} className="object-contain" />
+          <img src="shopping-cart.png" alt="Cart" style={{ width: '20px', height: '20px' }} className="object-contain" />
           <span className="absolute -top-1.5 -right-1.5 bg-[#6D28D9] text-white text-[9px] w-4 h-4 flex items-center justify-center rounded-full font-bold">
             {cartLength}
           </span>
